@@ -1,1 +1,1 @@
-# ctf-journal
+Coming soon
